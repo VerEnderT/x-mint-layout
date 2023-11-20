@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=X-Mint-Layout
+GenericName=Desktop Layout Switcher
+Comment=Wechsel zwischen vorgefertigten Desktop Layouts
+Icon=x-mint-layout
+Exec=x-mint-layout
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=XFCE;GTK;Settings;DesktopSettings;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
+Keywords=settings;preferences;manager;layout;desktop;xfce4;
+Keywords[de]=Sitzung;Einstellungen;Präferenzen;Manager;Layout;xfce4;
